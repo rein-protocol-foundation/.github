@@ -29,6 +29,8 @@ We are an AI-native organization: agents help with research, coordination, and o
 
 | Resource | What you will find |
 | --- | --- |
+| [Foundation website](https://github.com/rein-protocol-foundation/ReinProtocolFoundation) | Source code for the Foundation website and community platform. |
+| [Nori Agent](https://github.com/rein-protocol-foundation/nori-agent) | The Nori agent project. |
 | [Paper template](https://github.com/rein-protocol-foundation/rein-paper-template) | English LaTeX templates for preprints, technical reports, and author accepted manuscripts, with single-column and double-column layouts and Overleaf packages. |
 | [Organization repositories](https://github.com/orgs/rein-protocol-foundation/repositories) | Browse the projects and research resources hosted by the Foundation. |
 | [Community (Discord)](https://discord.gg/m8qnWv9XX) | Join our Discord server to connect, learn, and participate. |

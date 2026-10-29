@@ -29,6 +29,8 @@ Rein Protocol Foundation 汇聚研究者、开发者与社区，通过开源工�
 
 | 资源 | 内容 |
 | --- | --- |
+| [基金会官网](https://github.com/rein-protocol-foundation/ReinProtocolFoundation) | 基金会官网与社区平台的源代码。 |
+| [Nori Agent](https://github.com/rein-protocol-foundation/nori-agent) | Nori 智能体项目。 |
 | [论文模板](https://github.com/rein-protocol-foundation/rein-paper-template) | 用于预印本、技术报告和录用后作者稿的英文 LaTeX 模板，提供单栏、双栏版式及 Overleaf 压缩包。 |
 | [组织仓库](https://github.com/orgs/rein-protocol-foundation/repositories) | 浏览基金会托管的项目与研究资源。 |
 | [社区（Discord）](https://discord.gg/m8qnWv9XX) | 加入 Discord 服务器，交流、学习并参与社区。 |
