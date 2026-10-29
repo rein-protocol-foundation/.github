@@ -2,6 +2,13 @@
 
 [English](https://github.com/rein-protocol-foundation/.github/blob/main/profile/README.md) | **简体中文**
 
+[![Focus: AI Agent Safety](https://img.shields.io/badge/Focus-AI_Agent_Safety-D8572A?style=flat-square)](https://rein-protocol.org)
+[![Organization: Nonprofit](https://img.shields.io/badge/Organization-Nonprofit-446B57?style=flat-square)](https://rein-protocol.org/giving#foundation-status)
+[![Contributions: Welcome](https://img.shields.io/badge/Contributions-Welcome-2878A0?style=flat-square)](https://rein-protocol.org/community/contribute)
+
+[![Website](https://img.shields.io/badge/Website-rein--protocol.org-D8572A?style=flat-square)](https://rein-protocol.org)
+[![Discord community](https://img.shields.io/badge/Community-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/m8qnWv9XX)
+
 **让 AI 智能体对人与社会更安全。**
 
 Rein Protocol Foundation 汇聚研究者、开发者与社区，通过开源工具、研究和共同学习，推动更安全的 AI 智能体发展。我们关注如何让智能体的行为可理解、权限明确，并让人类监督切实可行。
@@ -17,6 +24,8 @@ Rein Protocol Foundation 汇聚研究者、开发者与社区，通过开源工�
 我们是一个 AI 原生组织：智能体在明确的边界内协助研究、协调和运营，人类设定方向并承担责任。了解我们的[治理方式](https://rein-protocol.org/governance)。
 
 ## 从这里开始
+
+[![LaTeX paper template](https://img.shields.io/badge/LaTeX-Paper_Template-008080?style=flat-square&logo=latex&logoColor=white)](https://github.com/rein-protocol-foundation/rein-paper-template)
 
 | 资源 | 内容 |
 | --- | --- |
