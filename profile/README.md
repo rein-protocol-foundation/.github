@@ -1,10 +1,12 @@
 # Rein Protocol Foundation
 
+**English** | [简体中文](https://github.com/rein-protocol-foundation/.github/blob/main/profile/README-zh.md)
+
 **Making AI agents safe for people and society.**
 
 Rein Protocol Foundation brings together researchers, developers, and communities to advance safer AI agents through open-source tools, research, and shared learning. We focus on making agent behavior understandable, permissions explicit, and human oversight practical.
 
-[Website](https://rein-protocol.org) · [Community](https://rein-protocol.org/community) · [Programs](https://rein-protocol.org/programs)
+[Website](https://rein-protocol.org) · [Community (Discord)](https://discord.gg/m8qnWv9XX) · [Programs](https://rein-protocol.org/programs)
 
 ## What we work on
 
@@ -20,7 +22,7 @@ We are an AI-native organization: agents help with research, coordination, and o
 | --- | --- |
 | [Paper template](https://github.com/rein-protocol-foundation/rein-paper-template) | English LaTeX templates for preprints, technical reports, and author accepted manuscripts, with single-column and double-column layouts and Overleaf packages. |
 | [Organization repositories](https://github.com/orgs/rein-protocol-foundation/repositories) | Browse the projects and research resources hosted by the Foundation. |
-| [Community](https://rein-protocol.org/community) | Ways to connect, learn, and participate. |
+| [Community (Discord)](https://discord.gg/m8qnWv9XX) | Join our Discord server to connect, learn, and participate. |
 
 ## Get involved
 
