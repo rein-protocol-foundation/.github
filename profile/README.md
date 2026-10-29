@@ -2,6 +2,10 @@
 
 **English** | [简体中文](https://github.com/rein-protocol-foundation/.github/blob/main/profile/README-zh.md)
 
+[![Website](https://img.shields.io/badge/Website-rein--protocol.org-D8572A?style=flat-square)](https://rein-protocol.org)
+[![Discord community](https://img.shields.io/badge/Community-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/m8qnWv9XX)
+[![LaTeX paper template](https://img.shields.io/badge/LaTeX-Paper_Template-008080?style=flat-square&logo=latex&logoColor=white)](https://github.com/rein-protocol-foundation/rein-paper-template)
+
 **Making AI agents safe for people and society.**
 
 Rein Protocol Foundation brings together researchers, developers, and communities to advance safer AI agents through open-source tools, research, and shared learning. We focus on making agent behavior understandable, permissions explicit, and human oversight practical.
